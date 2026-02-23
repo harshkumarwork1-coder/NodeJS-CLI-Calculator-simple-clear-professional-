@@ -38,7 +38,7 @@ NodeJS-CLI-Calculator/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/NodeJS-CLI-Calculator.git
+git clone https://github.com/harshkumarwork1-coder/NodeJS-CLI-Calculator.git
 2️⃣ Navigate into the project folder
 cd NodeJS-CLI-Calculator
 3️⃣ Run the program
